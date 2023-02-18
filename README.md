@@ -1,12 +1,12 @@
 # Hackathon Submission: Task 1 for Concordium
-
-
+## Mainnet
+4DCncg5Eeiyw8u7UfhYXdxSMWXqXrx2ZJ4D9Xa7CWpjhj6SrL6
 ## Step 1:
 Rust must be installed on your system.
-![image00001.png](image00001.png)![image00002.png](image00002.png)
+![image00001.png](image00001.png)![image00002.png](image00002.png)![image00003.png](image00003.png)
 ## Step 2: 
 Install the cargo-concordium package.
-![image00003.png](image00003.png)![image00004.png](image00004.png)
+![image00004.png](image00004.png)
 ## Step 3: 
 Concordium-client needs to be installed.
 ![image00005.png](image00005.png)
